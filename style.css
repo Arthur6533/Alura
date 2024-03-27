@@ -73,5 +73,14 @@ body {
     .botao:last-child {
         border-radius: 0 40px 0 0;
     }
+
 }
+  
+.abas-textos{
+    background-color: var(--texto-fundo);
+    padding: 40px;
+    border-radius: 0 0 40px 40px;
+}
+
+  
 
